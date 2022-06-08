@@ -1,0 +1,6 @@
+Algoritmo seudocodigo_managua2
+	Leer donde_quiere_llegar_el_usuario
+	Leer la_mejor_ruta_para_el_usuario
+	Leer otras_alternativas_para_llegar_al_destino
+	
+FinAlgoritmo

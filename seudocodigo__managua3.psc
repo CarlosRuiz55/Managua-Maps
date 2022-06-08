@@ -1,0 +1,5 @@
+Algoritmo seudocodigo_managua3
+	Leer el_tiempo_aproximado_en_que_llegara_el_bus
+	Leer el_tiempo_aproximado_en_que_llegara_el_bus_al_destino_final
+	
+FinAlgoritmo

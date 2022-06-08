@@ -1,0 +1,6 @@
+Algoritmo seudocodigo_mangua1
+	Leer el_punto_de_inicio_del_usuario
+	Leer las_posibles_rutas_al_destino_final
+	Leer los_buses_que_van_al_destino_final
+	
+FinAlgoritmo
